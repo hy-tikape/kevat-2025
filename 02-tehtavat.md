@@ -19,12 +19,8 @@ Tehtävät 1–20 liittyvät materiaalin lukuun 2, tehtävät 21–40 liittyvät
 
 ## Muut tehtävät
 
-Kurssin muut tehtävät julkaistaan helmikuun alkuun mennessä.
-
-<!--
-Kurssin muut tehtävät palautetaan [Tasks](https://tasks.withmooc.fi/tikape-syksy-2024)-järjestelmään. Näet jokaisessa tehtävässä, montako pistettä saat tehtävästä.
+Kurssin muut tehtävät palautetaan [Tasks](https://tasks.withmooc.fi/tikape-kevat-2025)-järjestelmään. Näet jokaisessa tehtävässä, montako pistettä saat tehtävästä.
 
 Kun lähetät vastauksen, saat automaattisesti pisteet tehtävästä. Kurssin henkilökunta käy läpi tehtävät kurssin jälkeen, mutta pisteesi eivät muutu, ellet ole tahallisesti kiertänyt automaattista tarkastusta.
 
-Viimeisessä tehtävässä on ohjeet kurssisuorituksen rekisteröintiin, ja voit tarkastaa kurssin pistetilanteen sekä antaa kurssipalautteen.
--->
+Viimeisessä tehtävässä on ohjeet, miten voit ilmoittautua kurssille, tarkastaa kurssin pistetilanteen sekä antaa kurssipalautteen.

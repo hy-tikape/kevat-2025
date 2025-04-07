@@ -1,6 +1,6 @@
 ---
 title: Loppuraportti
-permalink: /raportti
+permalink: /raportti/
 hide: false
 ---
 

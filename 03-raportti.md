@@ -4,7 +4,7 @@ permalink: /raportti/
 hide: false
 ---
 
-# Kurssin loppuraportti
+# Loppuraportti
 
 Kurssille osallistui 594 opiskelijaa, joista 231 (38.9 %) suoritti kurssin hyväksytysti.
 
